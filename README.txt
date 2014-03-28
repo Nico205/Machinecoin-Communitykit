@@ -1,33 +1,21 @@
-Helios 1.5 by HTML5 UP
-html5up.net | @n33co
+Machinecoin Community Website 1.0 by iDienstler based on HTML5 UP's Helios 1.5
+idienstler.de
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+This is the Machinecoin Community Website, a modified HTML5 UP's Helios 1.5 template for the Machinecoin Community. It's clean, modern, and designed
 to take advantage of larger (well, wider) displays while still being capable of gracefully
 scaling down to fit all manner of smaller ones.
-	
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I know over at
-deviantART. Check out his portfolio here:
-
-http://mdomaradzki.deviantart.com/
-
-* Not included with this download (replaced with generic placeholder images). Please
-don't use his work without his permission.
-
-AJ
-n33.co @n33co dribbble.com/n33
-
 
 Credits
 
 	Images (Demo Only)
-		Michael Domaradzki (http://mdomaradzki.deviantart.com/)
+		Jürgen Scholz (http://idienstler.de)
 		
 	Icons
 		Font Awesome (http://fortawesome.github.com/Font-Awesome/)
 
 	Other
+		HTML5 UP (html5up.net | @n33co n33.co dribbble.com/n33)
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		jquery.dropotron (n33.co)
