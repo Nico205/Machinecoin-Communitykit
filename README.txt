@@ -1,5 +1,5 @@
 Machinecoin Community Website 1.0 by iDienstler based on HTML5 UP's Helios 1.5
-idienstler.de
+html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 This is the Machinecoin Community Website, a modified HTML5 UP's Helios 1.5 template for the Machinecoin Community. It's clean, modern, and designed
