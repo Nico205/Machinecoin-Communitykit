@@ -8,7 +8,7 @@ scaling down to fit all manner of smaller ones.
 
 Credits
 
-	Images (Demo Only)
+	Images 
 		Jürgen Scholz (http://idienstler.de)
 		
 	Icons
